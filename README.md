@@ -1,12 +1,12 @@
 # INET 4031 Add User Script
 
 ## Program Description
-This script automates the process of adding new user accounts to a Linux system. It reads user details from standard input, including the username, password, full name, and groups. Using this information, the script:
+This project demonstrates a Python-based solution for automating server operations, specifically user creation. Automation tools like BASH, PERL, and Python are commonly used to handle repetitive tasks in server administration. For this project, Python is employed to write a script that simplifies user management on a server.
 
 ## Program Operation
 
-1. Creates a new user account.
-2. Sets the user’s password.
-3. Assigns the user to specified groups.
+1. Automates the process of creating multiple server users.
+2. Creates an input file for user configuration.
+3. Merges with GitHub for version control and code sharing.
 
 
